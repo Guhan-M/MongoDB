@@ -1,0 +1,144 @@
+[{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c958"
+  },
+  "companyName": "InnoTech",
+  "driveDate": "25-Oct",
+  "studentId": 1,
+  "placementStatus": "Selected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c959"
+  },
+  "companyName": "TechCorp",
+  "driveDate": "25-Oct",
+  "studentId": 2,
+  "placementStatus": "NotSelected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c95a"
+  },
+  "companyName": "Tech Innovators Inc",
+  "driveDate": "26-Oct",
+  "studentId": 3,
+  "placementStatus": "Selected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c95b"
+  },
+  "companyName": "Data Dynamics Ltd",
+  "driveDate": "27-Oct",
+  "studentId": 4,
+  "placementStatus": "Selected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c95c"
+  },
+  "companyName": "CodeCraft Solutions",
+  "driveDate": "25-Oct",
+  "studentId": 5,
+  "placementStatus": "NotSelected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c95d"
+  },
+  "companyName": "CyberSec Guardians Ltd",
+  "driveDate": "25-Oct",
+  "studentId": 6,
+  "placementStatus": "Selected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c95e"
+  },
+  "companyName": "TechCorp",
+  "driveDate": "25-Oct",
+  "studentId": 7,
+  "placementStatus": "Selected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c95f"
+  },
+  "companyName": "InnoTech",
+  "driveDate": "29-Oct",
+  "studentId": 8,
+  "placementStatus": "NotSelected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c960"
+  },
+  "companyName": "InnoTech",
+  "driveDate": "25-Aug",
+  "studentId": 1,
+  "placementStatus": "Selected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c961"
+  },
+  "companyName": "TechCorp",
+  "driveDate": "25-Aug",
+  "studentId": 2,
+  "placementStatus": "NotSelected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c962"
+  },
+  "companyName": "Tech Innovators Inc",
+  "driveDate": "26-Aug",
+  "studentId": 3,
+  "placementStatus": "Selected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c963"
+  },
+  "companyName": "Data Dynamics Ltd",
+  "driveDate": "27-Aug",
+  "studentId": 4,
+  "placementStatus": "Selected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c964"
+  },
+  "companyName": "CodeCraft Solutions",
+  "driveDate": "25-Aug",
+  "studentId": 5,
+  "placementStatus": "NotSelected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c965"
+  },
+  "companyName": "CyberSec Guardians Ltd",
+  "driveDate": "25-Aug",
+  "studentId": 6,
+  "placementStatus": "Selected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c966"
+  },
+  "companyName": "TechCorp",
+  "driveDate": "25-Aug",
+  "studentId": 7,
+  "placementStatus": "NotSelected"
+},
+{
+  "_id": {
+    "$oid": "65aaae4578edec1c8fe4c967"
+  },
+  "companyName": "InnoTech",
+  "driveDate": "29-Aug",
+  "studentId": 8,
+  "placementStatus": "NotSelected"
+}]

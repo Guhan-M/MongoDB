@@ -1,0 +1,88 @@
+[{
+  "_id": {
+    "$oid": "65aa98282f2c932b03680d2e"
+  },
+  "userid": 1,
+  "taskstatus": "completed",
+  "date": "1-Jan"
+},
+{
+  "_id": {
+    "$oid": "65aa997c2f2c932b03680d2f"
+  },
+  "userid": 1,
+  "taskstatus": "completed",
+  "date": "1-Feb"
+},
+{
+  "_id": {
+    "$oid": "65aa997c2f2c932b03680d30"
+  },
+  "userid": 2,
+  "taskstatus": "completed",
+  "date": "1-Jan"
+},
+{
+  "_id": {
+    "$oid": "65aa997c2f2c932b03680d31"
+  },
+  "userid": 3,
+  "taskstatus": "completed",
+  "date": "1-Jan"
+},
+{
+  "_id": {
+    "$oid": "65aa997c2f2c932b03680d32"
+  },
+  "userid": 4,
+  "taskstatus": "completed",
+  "date": "1-Jan"
+},
+{
+  "_id": {
+    "$oid": "65aa997c2f2c932b03680d33"
+  },
+  "userid": 5,
+  "taskstatus": "completed",
+  "date": "1-Jan"
+},
+{
+  "_id": {
+    "$oid": "65aa997c2f2c932b03680d34"
+  },
+  "userid": 1,
+  "taskstatus": "pending",
+  "date": "16-oct"
+},
+{
+  "_id": {
+    "$oid": "65aa997c2f2c932b03680d35"
+  },
+  "userid": 2,
+  "taskstatus": "completed",
+  "date": "17-oct"
+},
+{
+  "_id": {
+    "$oid": "65aa997c2f2c932b03680d36"
+  },
+  "userid": 3,
+  "taskstatus": "completed",
+  "date": "17-oct"
+},
+{
+  "_id": {
+    "$oid": "65aa997c2f2c932b03680d37"
+  },
+  "userid": 4,
+  "taskstatus": "completed",
+  "date": "17-oct"
+},
+{
+  "_id": {
+    "$oid": "65aa997c2f2c932b03680d38"
+  },
+  "userid": 5,
+  "taskstatus": "pending",
+  "date": "18-oct"
+}]

@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "65a960a4f72d5e6de8dfdf83"
+  },
+  "id": 1,
+  "Name": "arun",
+  "Batch": "B502",
+  "Email": "arun@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65a961acf72d5e6de8dfdf84"
+  },
+  "id": 2,
+  "Name": "akash",
+  "Batch": "B501",
+  "Email": "akashg@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65a961acf72d5e6de8dfdf85"
+  },
+  "id": 3,
+  "Name": "Dinesh",
+  "Batch": "B502",
+  "Email": "dinesh@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65a961acf72d5e6de8dfdf86"
+  },
+  "id": 4,
+  "Name": "Dhanush",
+  "Batch": "B501",
+  "Email": "dhanush@gmail.com"
+},
+{
+  "_id": {
+    "$oid": "65a961acf72d5e6de8dfdf87"
+  },
+  "id": 5,
+  "Name": "Gokul",
+  "Batch": "B501",
+  "Email": "gokull@gmail.com"
+}]

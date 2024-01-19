@@ -1,0 +1,648 @@
+[{
+  "_id": {
+    "$oid": "65a969c8f72d5e6de8dfdfa0"
+  },
+  "date": "1-oct-2020",
+  "attendance_status": "present",
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "65a969d9f72d5e6de8dfdfa1"
+  },
+  "date": "1-oct-2020",
+  "attendance_status": "present",
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "65a96a42f72d5e6de8dfdfa2"
+  },
+  "date": "1-oct-2020",
+  "attendance_status": "present",
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "65a96a42f72d5e6de8dfdfa3"
+  },
+  "date": "1-oct-2020",
+  "attendance_status": "present",
+  "user_id": 3
+},
+{
+  "_id": {
+    "$oid": "65a96a42f72d5e6de8dfdfa4"
+  },
+  "date": "1-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "65a96a42f72d5e6de8dfdfa5"
+  },
+  "date": "1-oct-2020",
+  "attendance_status": "present",
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "65a96a42f72d5e6de8dfdfa6"
+  },
+  "date": "1-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 6
+},
+{
+  "_id": {
+    "$oid": "65a96a42f72d5e6de8dfdfa7"
+  },
+  "date": "1-oct-2020",
+  "attendance_status": "present",
+  "user_id": 7
+},
+{
+  "_id": {
+    "$oid": "65a96a42f72d5e6de8dfdfa8"
+  },
+  "date": "1-oct-2020",
+  "attendance_status": "present",
+  "user_id": 8
+},
+{
+  "_id": {
+    "$oid": "65a96ab6f72d5e6de8dfdfa9"
+  },
+  "date": "10-oct-2020",
+  "attendance_status": "present",
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "65a96ab6f72d5e6de8dfdfaa"
+  },
+  "date": "10-oct-2020",
+  "attendance_status": "present",
+  "user_id": 2
+},
+{
+  "_id": {
+    "$oid": "65a96ab6f72d5e6de8dfdfab"
+  },
+  "date": "10-oct-2020",
+  "attendance_status": "present",
+  "user_id": 3
+},
+{
+  "_id": {
+    "$oid": "65a96ab6f72d5e6de8dfdfac"
+  },
+  "date": "10-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "65a96ab6f72d5e6de8dfdfad"
+  },
+  "date": "10-oct-2020",
+  "attendance_status": "present",
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "65a96ab6f72d5e6de8dfdfae"
+  },
+  "date": "10-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 6
+},
+{
+  "_id": {
+    "$oid": "65a96ab6f72d5e6de8dfdfaf"
+  },
+  "date": "10-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 7
+},
+{
+  "_id": {
+    "$oid": "65a96ab6f72d5e6de8dfdfb0"
+  },
+  "date": "10-oct-2020",
+  "attendance_status": "present",
+  "user_id": 8
+},
+{
+  "_id": {
+    "$oid": "65a96ab6f72d5e6de8dfdfb1"
+  },
+  "date": "10-oct-2020",
+  "attendance_status": "present",
+  "user_id": 9
+},
+{
+  "_id": {
+    "$oid": "65a96ad7f72d5e6de8dfdfb2"
+  },
+  "date": "11-oct-2020",
+  "attendance_status": "present",
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "65a96ad7f72d5e6de8dfdfb3"
+  },
+  "date": "11-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 2
+},
+{
+  "_id": {
+    "$oid": "65a96ad7f72d5e6de8dfdfb4"
+  },
+  "date": "11-oct-2020",
+  "attendance_status": "present",
+  "user_id": 3
+},
+{
+  "_id": {
+    "$oid": "65a96ad7f72d5e6de8dfdfb5"
+  },
+  "date": "11-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "65a96ad7f72d5e6de8dfdfb6"
+  },
+  "date": "11-oct-2020",
+  "attendance_status": "present",
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "65a96ad7f72d5e6de8dfdfb7"
+  },
+  "date": "11-oct-2020",
+  "attendance_status": "present",
+  "user_id": 6
+},
+{
+  "_id": {
+    "$oid": "65a96ad7f72d5e6de8dfdfb8"
+  },
+  "date": "11-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 7
+},
+{
+  "_id": {
+    "$oid": "65a96ad7f72d5e6de8dfdfb9"
+  },
+  "date": "11-oct-2020",
+  "attendance_status": "present",
+  "user_id": 8
+},
+{
+  "_id": {
+    "$oid": "65a96ad7f72d5e6de8dfdfba"
+  },
+  "date": "11-oct-2020",
+  "attendance_status": "present",
+  "user_id": 9
+},
+{
+  "_id": {
+    "$oid": "65a96b07f72d5e6de8dfdfbb"
+  },
+  "date": "16-oct-2020",
+  "attendance_status": "present",
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "65a96b07f72d5e6de8dfdfbc"
+  },
+  "date": "16-oct-2020",
+  "attendance_status": "present",
+  "user_id": 2
+},
+{
+  "_id": {
+    "$oid": "65a96b07f72d5e6de8dfdfbd"
+  },
+  "date": "16-oct-2020",
+  "attendance_status": "present",
+  "user_id": 3
+},
+{
+  "_id": {
+    "$oid": "65a96b07f72d5e6de8dfdfbe"
+  },
+  "date": "16-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "65a96b07f72d5e6de8dfdfbf"
+  },
+  "date": "16-oct-2020",
+  "attendance_status": "present",
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "65a96b07f72d5e6de8dfdfc0"
+  },
+  "date": "16-oct-2020",
+  "attendance_status": "present",
+  "user_id": 6
+},
+{
+  "_id": {
+    "$oid": "65a96b07f72d5e6de8dfdfc1"
+  },
+  "date": "16-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 7
+},
+{
+  "_id": {
+    "$oid": "65a96b07f72d5e6de8dfdfc2"
+  },
+  "date": "16-oct-2020",
+  "attendance_status": "present",
+  "user_id": 8
+},
+{
+  "_id": {
+    "$oid": "65a96b07f72d5e6de8dfdfc3"
+  },
+  "date": "16-oct-2020",
+  "attendance_status": "present",
+  "user_id": 9
+},
+{
+  "_id": {
+    "$oid": "65a96b2cf72d5e6de8dfdfc4"
+  },
+  "date": "17-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "65a96b2cf72d5e6de8dfdfc5"
+  },
+  "date": "17-oct-2020",
+  "attendance_status": "present",
+  "user_id": 2
+},
+{
+  "_id": {
+    "$oid": "65a96b2cf72d5e6de8dfdfc6"
+  },
+  "date": "17-oct-2020",
+  "attendance_status": "present",
+  "user_id": 3
+},
+{
+  "_id": {
+    "$oid": "65a96b2cf72d5e6de8dfdfc7"
+  },
+  "date": "17-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "65a96b2cf72d5e6de8dfdfc8"
+  },
+  "date": "17-oct-2020",
+  "attendance_status": "present",
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "65a96b2cf72d5e6de8dfdfc9"
+  },
+  "date": "17-oct-2020",
+  "attendance_status": "present",
+  "user_id": 6
+},
+{
+  "_id": {
+    "$oid": "65a96b2cf72d5e6de8dfdfca"
+  },
+  "date": "17-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 7
+},
+{
+  "_id": {
+    "$oid": "65a96b2cf72d5e6de8dfdfcb"
+  },
+  "date": "17-oct-2020",
+  "attendance_status": "present",
+  "user_id": 8
+},
+{
+  "_id": {
+    "$oid": "65a96b2cf72d5e6de8dfdfcc"
+  },
+  "date": "17-oct-2020",
+  "attendance_status": "present",
+  "user_id": 9
+},
+{
+  "_id": {
+    "$oid": "65a96b3df72d5e6de8dfdfcd"
+  },
+  "date": "19-oct-2020",
+  "attendance_status": "present",
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "65a96b3df72d5e6de8dfdfce"
+  },
+  "date": "19-oct-2020",
+  "attendance_status": "present",
+  "user_id": 2
+},
+{
+  "_id": {
+    "$oid": "65a96b3df72d5e6de8dfdfcf"
+  },
+  "date": "19-oct-2020",
+  "attendance_status": "present",
+  "user_id": 3
+},
+{
+  "_id": {
+    "$oid": "65a96b3df72d5e6de8dfdfd0"
+  },
+  "date": "19-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "65a96b3df72d5e6de8dfdfd1"
+  },
+  "date": "19-oct-2020",
+  "attendance_status": "present",
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "65a96b3df72d5e6de8dfdfd2"
+  },
+  "date": "19-oct-2020",
+  "attendance_status": "present",
+  "user_id": 6
+},
+{
+  "_id": {
+    "$oid": "65a96b3df72d5e6de8dfdfd3"
+  },
+  "date": "19-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 7
+},
+{
+  "_id": {
+    "$oid": "65a96b3df72d5e6de8dfdfd4"
+  },
+  "date": "19-oct-2020",
+  "attendance_status": "present",
+  "user_id": 8
+},
+{
+  "_id": {
+    "$oid": "65a96b3df72d5e6de8dfdfd5"
+  },
+  "date": "19-oct-2020",
+  "attendance_status": "present",
+  "user_id": 9
+},
+{
+  "_id": {
+    "$oid": "65a96b58f72d5e6de8dfdfd6"
+  },
+  "date": "22-oct-2020",
+  "attendance_status": "present",
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "65a96b58f72d5e6de8dfdfd7"
+  },
+  "date": "22-oct-2020",
+  "attendance_status": "present",
+  "user_id": 2
+},
+{
+  "_id": {
+    "$oid": "65a96b58f72d5e6de8dfdfd8"
+  },
+  "date": "22-oct-2020",
+  "attendance_status": "present",
+  "user_id": 3
+},
+{
+  "_id": {
+    "$oid": "65a96b58f72d5e6de8dfdfd9"
+  },
+  "date": "22-oct-2020",
+  "attendance_status": "present",
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "65a96b58f72d5e6de8dfdfda"
+  },
+  "date": "22-oct-2020",
+  "attendance_status": "present",
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "65a96b58f72d5e6de8dfdfdb"
+  },
+  "date": "22-oct-2020",
+  "attendance_status": "present",
+  "user_id": 6
+},
+{
+  "_id": {
+    "$oid": "65a96b58f72d5e6de8dfdfdc"
+  },
+  "date": "22-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 7
+},
+{
+  "_id": {
+    "$oid": "65a96b58f72d5e6de8dfdfdd"
+  },
+  "date": "22-oct-2020",
+  "attendance_status": "present",
+  "user_id": 8
+},
+{
+  "_id": {
+    "$oid": "65a96b58f72d5e6de8dfdfde"
+  },
+  "date": "22-oct-2020",
+  "attendance_status": "present",
+  "user_id": 9
+},
+{
+  "_id": {
+    "$oid": "65a96b7af72d5e6de8dfdfdf"
+  },
+  "date": "26-oct-2020",
+  "attendance_status": "present",
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "65a96b7af72d5e6de8dfdfe0"
+  },
+  "date": "26-oct-2020",
+  "attendance_status": "present",
+  "user_id": 2
+},
+{
+  "_id": {
+    "$oid": "65a96b7af72d5e6de8dfdfe1"
+  },
+  "date": "26-oct-2020",
+  "attendance_status": "present",
+  "user_id": 3
+},
+{
+  "_id": {
+    "$oid": "65a96b7af72d5e6de8dfdfe2"
+  },
+  "date": "26-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "65a96b7af72d5e6de8dfdfe3"
+  },
+  "date": "26-oct-2020",
+  "attendance_status": "present",
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "65a96b7af72d5e6de8dfdfe4"
+  },
+  "date": "26-oct-2020",
+  "attendance_status": "present",
+  "user_id": 6
+},
+{
+  "_id": {
+    "$oid": "65a96b7af72d5e6de8dfdfe5"
+  },
+  "date": "26-oct-2020",
+  "attendance_status": "present",
+  "user_id": 7
+},
+{
+  "_id": {
+    "$oid": "65a96b7af72d5e6de8dfdfe6"
+  },
+  "date": "26-oct-2020",
+  "attendance_status": "present",
+  "user_id": 8
+},
+{
+  "_id": {
+    "$oid": "65a96b7af72d5e6de8dfdfe7"
+  },
+  "date": "26-oct-2020",
+  "attendance_status": "present",
+  "user_id": 9
+},
+{
+  "_id": {
+    "$oid": "65a96ba9f72d5e6de8dfdfe8"
+  },
+  "date": "30-oct-2020",
+  "attendance_status": "present",
+  "user_id": 1
+},
+{
+  "_id": {
+    "$oid": "65a96ba9f72d5e6de8dfdfe9"
+  },
+  "date": "30-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 2
+},
+{
+  "_id": {
+    "$oid": "65a96ba9f72d5e6de8dfdfea"
+  },
+  "date": "30-oct-2020",
+  "attendance_status": "present",
+  "user_id": 3
+},
+{
+  "_id": {
+    "$oid": "65a96ba9f72d5e6de8dfdfeb"
+  },
+  "date": "30-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 4
+},
+{
+  "_id": {
+    "$oid": "65a96ba9f72d5e6de8dfdfec"
+  },
+  "date": "30-oct-2020",
+  "attendance_status": "present",
+  "user_id": 5
+},
+{
+  "_id": {
+    "$oid": "65a96ba9f72d5e6de8dfdfed"
+  },
+  "date": "30-oct-2020",
+  "attendance_status": "present",
+  "user_id": 6
+},
+{
+  "_id": {
+    "$oid": "65a96ba9f72d5e6de8dfdfee"
+  },
+  "date": "30-oct-2020",
+  "attendance_status": "absent",
+  "user_id": 7
+},
+{
+  "_id": {
+    "$oid": "65a96ba9f72d5e6de8dfdfef"
+  },
+  "date": "30-oct-2020",
+  "attendance_status": "present",
+  "user_id": 8
+},
+{
+  "_id": {
+    "$oid": "65a96ba9f72d5e6de8dfdff0"
+  },
+  "date": "30-oct-2020",
+  "attendance_status": "present",
+  "user_id": 9
+}]
