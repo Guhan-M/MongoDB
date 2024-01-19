@@ -1,0 +1,23 @@
+1) db.Topics.find({Month:'October'})
+   db.task.find({date:{$regex:'oct'}})
+
+2) db.companydrives.find({$and:[
+   {driveDate:{$gte:'15-Oct'}},
+   {driveDate:{$lte:'31-Oct'}}
+    ]})
+
+3) db.companydrives.find({placementStatus:{$eq:'Selected'}})
+
+4) db.codekata.aggregate([
+   {$match:{"status":{$eq:"solved"}}},
+   {$group:{_id:'$userid',total:{$sum:1}}}
+   ])
+
+5) db.mentor.find({count:{$gt:15}})
+
+6) db.attendance.aggregate([
+  {$match:{"date":{$gte:'15-oct-2020',$lte:'31-oct-2020'}}},
+  {$match:{attendance_status:{$eq:'absent'}}},
+  {$group:{_id:"$user_id",total:{$sum:1}}},
+   ])
+
